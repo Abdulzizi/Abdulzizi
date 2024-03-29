@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv">
 
-- 🔭 I’m currently working on [E-Commerce Website](https://github.com/Abdulzizi/next-portfolio)
+- 🔭 I’m currently working on [E-Commerce Website](https://github.com/Abdulzizi/ecommerce-admin)
 
 - 🌱 I’m currently learning **NextJs, Payment Gateaway**
 
