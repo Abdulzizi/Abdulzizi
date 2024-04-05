@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NextJs, Payment Gateaway**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-abdulzizi-zeta.vercel.app/](https://portfolio-abdulzizi-zeta.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://abdulzizi.vercel.app/)
 
 - 💬 Ask me about **Backend Web**
 
