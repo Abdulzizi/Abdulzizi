@@ -7,11 +7,9 @@
 
 - 🔭 I’m currently working on [E-Commerce Website](https://github.com/Abdulzizi/ecommerce-admin)
 
-- 🌱 I’m currently learning **NextJs, Payment Gateaway**
+- 🌱 I’m currently learning **NextJs, Front-End Dev**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://abdulzizi.vercel.app/)
-
-- 💬 Ask me about **Backend Web**
 
 - 📫 How to reach me **jawadazizi052@gmail.com**
 
