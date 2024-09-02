@@ -1,4 +1,6 @@
-![Header](./[github-header-image.png])
+<p align="center">
+  <img width="200" height="200" src="https://raw.githubusercontent.com/Abdulzizi/blob/main/banner-youtube.png" alt="my banner">
+</p>
 
 # 💫 About Me:
 Well if it's my job to eliminate bugs then I'll also write bug :)
