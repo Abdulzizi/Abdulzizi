@@ -1,4 +1,4 @@
-![Header](./[banner-youtube.png])
+![Header](./[github-header-image.png])
 
 # 💫 About Me:
 Well if it's my job to eliminate bugs then I'll also write bug :)
