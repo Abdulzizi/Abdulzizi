@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="200" height="200" src="https://raw.githubusercontent.com/Abdulzizi/blob/main/banner-youtube.png" alt="my banner">
+  <img src="https://raw.githubusercontent.com/Abdulzizi/Abdulzizi/main/test-banner-1.png" alt="my banner">
 </p>
 
 # 💫 About Me:
