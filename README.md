@@ -68,6 +68,4 @@ Outside of coding, you’ll probably find me exploring new tech trends, messing 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<br>
-
 ![Snake animation](https://raw.githubusercontent.com/Abdulzizi/Abdulzizi/output/github-contribution-grid-snake-dark.svg)
