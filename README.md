@@ -10,7 +10,7 @@ Hey there! You can call me Abdul, or AJ if you're feeling cool. 😎 I'm a passi
 
 I’ve always believed that if it’s my job to squash bugs, then yeah, I might accidentally write a few along the way too—comes with the territory, right? 😅 I’m all about learning, experimenting, and constantly improving my craft. Whether it's a late-night coding session or tweaking my latest project, I’m here for the ride.
 
-Outside of coding, you’ll probably find me exploring new tech trends, messing around with side projects, hitting the gym, or maybe even just geeking out over something random. Let’s connect, collaborate, and maybe even write some (hopefully bug-free) code together! Peaceeee :)
+Outside of coding, you’ll probably find me exploring new tech trends, messing around with side projects, hitting the gym, or maybe even just geeking out over something random. Let’s connect, collaborate, and maybe even write some (hopefully bug-free) code together! Peaceeeee :)
 
 <br>
 
