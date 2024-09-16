@@ -6,7 +6,7 @@
 
 # 💫 About Me:
 
-Hey there! You can call me Abdul, or AJ if you're feeling cool. 😎 I'm a passionate developer/programmer who’s currently diving deep into the world of web development (but who knows where the future will take me!). I love building things from scratch and turning ideas into reality with code.
+Hey there! You can call me Abdul, or AJ if you're feeling cool. 😎 I'm a passionate developer/programmer who’s currently diving deep into the world of web development (but who knows where the future will take me!). I love building things from scratch and turning ideas into reality with code (Hopefully bug-free).
 
 I’ve always believed that if it’s my job to squash bugs, then yeah, I might accidentally write a few along the way too—comes with the territory, right? 😅 I’m all about learning, experimenting, and constantly improving my craft. Whether it's a late-night coding session or tweaking my latest project, I’m here for the ride.
 
