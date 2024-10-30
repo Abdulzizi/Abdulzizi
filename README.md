@@ -56,7 +56,8 @@ Outside of coding, you’ll probably find me exploring new tech trends, messing 
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulzizi&theme=dark&hide_border=false" alt="GitHub streak stats" />  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulzizi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abdulzizi&theme=dark&border_radius=5&exclude_days=Sun%2CSat)](https://git.io/streak-stats)  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulzizi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
   
 </div>
 
